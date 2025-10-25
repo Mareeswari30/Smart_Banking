@@ -1,0 +1,21 @@
+# Ignore virtual environments
+venv/
+backend/venv/
+
+# Common Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environment files
+.env
+*.env
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
