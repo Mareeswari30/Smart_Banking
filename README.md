@@ -65,7 +65,7 @@ Built with **FastAPI**, it demonstrates modern API design, JWT authentication, a
 
 ## Getting Started
 
-1. Clone the repo:  
-   ```bash
-   git clone <repo_url>
-   cd smartbank-backend
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Mareeswari30/Smart_Banking.git
+cd Smart_Banking
