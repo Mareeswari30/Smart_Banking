@@ -9,7 +9,7 @@ Built with **FastAPI**, it demonstrates modern API design, JWT authentication, a
 - **User Registration:** Signup with document upload & password hashing.
 - **Account Creation:** Create bank accounts with initial deposit of 500 units.
 
-- **Dashboard:** View all accounts and transaction history.
+- **Dashboard:** View all accounts 
 
 ---
 
@@ -57,7 +57,6 @@ Built with **FastAPI**, it demonstrates modern API design, JWT authentication, a
 - Pytest validates:
   - User registration & password verification  
   - Account creation & initial balance  
-  - Money transfer validation  
   - Dashboard & transaction retrieval  
 - All core functionalities passing with proper logging.
 
